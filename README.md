@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Independent-Project-2### Akan name generator
 Simple web app that generates an Akan name based on the date of birth and gender by determining the day one was born, 6/9/2021
 
@@ -6,6 +5,7 @@ Simple web app that generates an Akan name based on the date of birth and gender
 Anthony Swaka
 
 ### Description
+
 a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 Akan names are derived from Ghanaian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
 ### Features
@@ -63,6 +63,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-=======
-# Independent-Project-2-Akan Names
->>>>>>> 443c0b3619b6510b5d3668ec18f1635ade3d2d26
