@@ -1,1 +1,1 @@
-# Independent-Project-2
+# Independent-Project-2-Akan Names
